@@ -1,0 +1,20 @@
+{
+  "name": "formregex",
+  "version": "1.0.0",
+  "description": "Ejercicios con validación Regex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saralopezlovon/FormRegex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saralopezlovon/FormRegex/issues"
+  },
+  "homepage": "https://github.com/Saralopezlovon/FormRegex#readme"
+}
